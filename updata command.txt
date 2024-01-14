@@ -1,0 +1,6 @@
+cd C:\Users\cheng\Desktop\line-bot-tutorial-master
+heroku login
+git add .
+git commit -m "Add code"
+git push -f heroku master
+.
